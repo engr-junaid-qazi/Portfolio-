@@ -1,8 +1,8 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import MachineLearn from "../../../public/assets/pictures/AI Wallpapers/a.jpeg";
-import DeepLearn from "../../../public/assets/pictures/AI Wallpapers/b.jpeg"
+import MachineLearn from "../../../public/assets/pictures/a.jpeg";
+import DeepLearn from "../../../public/assets/pictures/bb.jpeg"
 import LabView from "../../../public/assets/pictures/Labview.png"
 import MatLab from "../../../public/assets/pictures/c.png"
 import WebApp from "../../../public/assets/pictures/d.jpeg"

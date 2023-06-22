@@ -230,58 +230,6 @@
         "async": false
       }
     },
-    "(app-client)/./public/assets/pictures/AI Wallpapers/a.jpeg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/pictures/AI Wallpapers/a.jpeg",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./public/assets/pictures/AI Wallpapers/a.jpeg",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./public/assets/pictures/AI Wallpapers/a.jpeg",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./public/assets/pictures/AI Wallpapers/b.jpeg": {
-      "*": {
-        "id": "(sc_client)/./public/assets/pictures/AI Wallpapers/b.jpeg",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./public/assets/pictures/AI Wallpapers/b.jpeg",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./public/assets/pictures/AI Wallpapers/b.jpeg",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./public/assets/pictures/Labview.png": {
       "*": {
         "id": "(sc_client)/./public/assets/pictures/Labview.png",
@@ -301,6 +249,58 @@
       },
       "default": {
         "id": "(sc_client)/./public/assets/pictures/Labview.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/pictures/a.jpeg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/pictures/a.jpeg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/pictures/a.jpeg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/pictures/a.jpeg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/pictures/bb.jpeg": {
+      "*": {
+        "id": "(sc_client)/./public/assets/pictures/bb.jpeg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/pictures/bb.jpeg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/pictures/bb.jpeg",
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
@@ -1230,54 +1230,6 @@
       ],
       "async": false
     },
-    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\AI Wallpapers\\a.jpeg": {
-      "id": "(app-client)/./public/assets/pictures/AI Wallpapers/a.jpeg",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\AI Wallpapers\\a.jpeg#": {
-      "id": "(app-client)/./public/assets/pictures/AI Wallpapers/a.jpeg",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\AI Wallpapers\\a.jpeg#default": {
-      "id": "(app-client)/./public/assets/pictures/AI Wallpapers/a.jpeg",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\AI Wallpapers\\b.jpeg": {
-      "id": "(app-client)/./public/assets/pictures/AI Wallpapers/b.jpeg",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\AI Wallpapers\\b.jpeg#": {
-      "id": "(app-client)/./public/assets/pictures/AI Wallpapers/b.jpeg",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\AI Wallpapers\\b.jpeg#default": {
-      "id": "(app-client)/./public/assets/pictures/AI Wallpapers/b.jpeg",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
     "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\Labview.png": {
       "id": "(app-client)/./public/assets/pictures/Labview.png",
       "name": "*",
@@ -1296,6 +1248,54 @@
     },
     "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\Labview.png#default": {
       "id": "(app-client)/./public/assets/pictures/Labview.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\a.jpeg": {
+      "id": "(app-client)/./public/assets/pictures/a.jpeg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\a.jpeg#": {
+      "id": "(app-client)/./public/assets/pictures/a.jpeg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\a.jpeg#default": {
+      "id": "(app-client)/./public/assets/pictures/a.jpeg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\bb.jpeg": {
+      "id": "(app-client)/./public/assets/pictures/bb.jpeg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\bb.jpeg#": {
+      "id": "(app-client)/./public/assets/pictures/bb.jpeg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\PIAIC Metaverse Web Developer Course - NEXT JS\\Projects\\portfolio\\public\\assets\\pictures\\bb.jpeg#default": {
+      "id": "(app-client)/./public/assets/pictures/bb.jpeg",
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"
