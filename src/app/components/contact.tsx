@@ -16,7 +16,7 @@ const Contact = () => {
         marginHeight={0}
         marginWidth={0}
         scrolling="no"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.77392154412!2d67.11688797358374!3d24.90569207789977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb3391f0cd2289b%3A0xf0625f1b025c1d33!2sClassic%20View%20Appartments%2C%20Street%2025A%2C%20Block-19%20Block%2019%20Gulistan-e-Johar%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh%2C%20Pakistan!5e0!3m2!1sen!2s!4v1686840989034!5m2!1sen!2s"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.982535821037!2d67.07764857358343!3d24.8985773279044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33ed9bdba183b%3A0xa6167ed864af710f!2sV3XJ%2BC25%20Ashraf%20Square%20Apartment%2C%20Block%2017%20Gulshan-e-Iqbal%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh%2C%20Pakistan!5e0!3m2!1sen!2s!4v1687522301089!5m2!1sen!2s"
         style={{ filter: " contrast(1.2) " }}
       />
       <div className="bg-blue-300 relative flex flex-wrap py-6 rounded shadow-md">
@@ -100,4 +100,4 @@ const Contact = () => {
 </div>
     )
 }
-export default Contact
+export default Contact 
