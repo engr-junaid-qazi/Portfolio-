@@ -51,7 +51,8 @@ const About = () => {
       </p>
       <div className="flex justify-center">
         <a href = "../../assets/my CV/CV - DS - New Style - Junaid Jahangir Qazi - 12-03-23.docx">
-        <button className="text-white bg-blue-800 hover:bg-red-600 border-0 py-2 px-6 focus:outline-none rounded text-lg">
+        <button className="text-white bg-blue-600 hover:bg-blue-800 
+      border-2 py-2 px-6 focus:outline-none rounded-lg text-lg shadow-2xl">
           View CV 
         </button>
         </a>

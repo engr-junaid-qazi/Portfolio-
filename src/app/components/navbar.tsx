@@ -9,9 +9,10 @@ const Navbar = () => {
         <div className='z-50 sticky top-0'>
 
             <header className="text-black-800 body-font">
-                <div className="pt-4 pb-4 pl-2 bg-blue-300 w-full container 
+                <div className="pt-2 pb-2 pl-2 bg-blue-300 w-full container 
                 mx-auto flex flex-wrap p-5 flex-col md:flex-row 
                 items-cstrokeLinecapenter">
+                    
                     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
                         <span className="font-myFont text-red-800 text-4xl">Engr. Junaid Jahangir Qazi
 
@@ -26,8 +27,12 @@ const Navbar = () => {
                         <Link href={'#Project'} className="mr-3 hover:text-red-600">Projects</Link>
                         <Link href={'#Contact'} className="mr-3 hover:text-red-600">Contact</Link>
                     </nav>
-                    <button className=" pl-2 cursor-pointer inline-flex items-center bg-blue-400 border-0 py-1 px-3 focus:outline-none hover:bg-red-600 rounded text-base mt-4 md:mt-0">
-                    <a className='flex flex-shrink-0' href='../../assets/my CV/CV - DS - New Style - Junaid Jahangir Qazi - 12-03-23.docx'>
+                    <button className="pl-2 cursor-pointer inline-flex items-center 
+                    border-0 py-1 px-1 focus:outline-none rounded text-base mt-4 md:mt-0">
+                    <a className='flex flex-shrink-0 text-white bg-blue-600 
+                    hover:bg-blue-800 border-2 py-2 px-3 focus:outline-none rounded-lg 
+                    text-sm shadow-2xl' 
+                    href='../../assets/my CV/CV - DS - New Style - Junaid Jahangir Qazi - 12-03-23.docx'>
                             Download CV
                             <AiOutlineDownload className='text-xl ml-2'/>
                     </a>

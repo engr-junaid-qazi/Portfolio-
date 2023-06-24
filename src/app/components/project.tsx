@@ -99,16 +99,13 @@ const Project = () => {
           />
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-              THE SUBTITLE
+              Clone Facebook Page 
             </h2>
-            <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-              The 400 Blows
-            </h1>
-            <p className="leading-relaxed line-clamp-2">
-              Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-              microdosing tousled waistcoat.
-            </p>
-            <Link href={"#"}>
+            <h3 className="title-font text-lg font-medium text-gray-900 mb-3">
+              Cloned Facebook Page using Next.js, Tailwind CSS, 
+            </h3>
+            
+            <Link href="https://facebook-clone-ecru.vercel.app/" target="_blank">
             <p className="leading-relaxed text-blue-800 hover:underline">
                 View Project
             </p>

@@ -80,7 +80,8 @@ const Hero = () => {
           <br/>
           <div className="flex justify-center">
             <Link href={'#Contact'}>
-            <button className="inline-flex text-white bg-blue-800 hover:bg-red-600 border-0 py-2 px-6 focus:outline-none  rounded text-lg">
+            <button className="text-white bg-blue-600 hover:bg-blue-800 
+      border-2 py-2 px-6 focus:outline-none rounded-lg text-lg shadow-2xl">
               Contact
             </button>
               </Link>
