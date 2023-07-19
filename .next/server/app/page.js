@@ -386,19 +386,19 @@ Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_
 
 /***/ }),
 
-/***/ 4429:
+/***/ 9322:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8591));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 7977, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 7649, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 359));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 350));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 4617));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5833));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2939));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8295));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8674));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 359))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8674))
 
 /***/ }),
 
@@ -1440,7 +1440,7 @@ const Skill = ()=>{
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 className: "text-base font-semibold leading-relaxed xl:w-2/4 lg:w-3/4    mx-auto",
-                                children: "Listed here are some of my major skills which i have acquired during Industrial Engineer's Course and Artificial Intelligence & Data Science Course"
+                                children: "Listed here are some of my major skills which i have acquired during Industrial Engineer\\'s Course and Artificial Intelligence & Data Science Course"
                             })
                         ]
                     }),
