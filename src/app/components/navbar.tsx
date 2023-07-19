@@ -14,7 +14,8 @@ const Navbar = () => {
                 items-cstrokeLinecapenter">
                     
                     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-                        <span className="font-myFont text-red-800 text-4xl">Engr. Junaid Jahangir Qazi
+                        <span className="font-myFont text-red-800 text-4xl">
+                            Engr. Junaid Jahangir Qazi
 
                         </span>
                     </a>
@@ -32,7 +33,7 @@ const Navbar = () => {
                     <a className='flex flex-shrink-0 text-white bg-blue-600 
                     hover:bg-blue-800 border-2 py-2 px-3 focus:outline-none rounded-lg 
                     text-sm shadow-2xl' 
-                    href='../../assets/my CV/CV - DS - New Style - Junaid Jahangir Qazi - 12-03-23.docx'>
+                    href='../../assets/my CV/CV - Engr. Junaid Jahangir Qazi - 25-06-23.pdf' target='_blank'>
                             Download CV
                             <AiOutlineDownload className='text-xl ml-2'/>
                     </a>

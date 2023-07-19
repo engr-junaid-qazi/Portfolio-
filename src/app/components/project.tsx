@@ -12,9 +12,10 @@ const Project = () => {
         <div id='Project'> 
 
 <section className="text-black-800 body-font bg-fixed bg-cover bg-center custom-image">
-  <div className="container px-5 py-24 mx-auto">
+  <div className="container px-5 py-10 mx-auto">
     <div className="flex flex-col text-center w-full -mt-14">
-      <h1 className="sm:text-3xl text-2xl font-bold title-font mb-4 text-black-900">
+      <h1 className="mb-4 sm:text-4xl text-3xl font-bold text-center title-font 
+      text-black-800">
         My Projects
       </h1>
       <div className='w-[215px] h-[4px] bg-blue-800 text-center ml-96'> </div>

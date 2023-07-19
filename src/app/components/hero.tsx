@@ -11,7 +11,8 @@ const Hero = () => {
 
     <section className="text-black-800 body-font 
     bg-fixed bg-cover bg-center custom-image">
-      <div className="container mx-auto flex px-5 py-12 md:flex-row flex-col items-center">
+      <div className="container mx-auto flex justify justify-center px-5 py-12 
+      md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-6 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
 
           <strong className="pl-0 title-font sm:text-xl text-lg mb-4 font-bold text-black-900">

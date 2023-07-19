@@ -4,9 +4,11 @@ import Link from 'next/link'
 const Contact = () => {
     return (
     <div id='Contact' className="-mt-12">
-        <section className="text-Black-800 body-font relative bg-fixed bg-cover bg-center custom-image">
+        <section className="text-Black-800 body-font relative bg-fixed bg-cover 
+        bg-center custom-image">
   <div className="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
-    <div className="lg:w-2/3 md:w-1/2 bg-white rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
+    <div className="lg:w-2/3 md:w-1/2 bg-white rounded-lg overflow-hidden 
+    sm:mr-10 p-10 flex items-end justify-start relative">
       <iframe
         width="100%"
         height="100%"
@@ -42,11 +44,13 @@ const Contact = () => {
         </div>
       </div>
     </div>
-    <div className=" lg:w-1/3 md:w-1/2  flex flex-col md:ml-auto w-full md:py-8 mt-2 md:mt-0">
-      <h2 className="text-black-800 text-3xl mb-4 font-bold title-font">
+    <div className=" lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full 
+    md:py-2 mt-2 md:mt-0">
+      <h2 className="mb-4 sm:text-4xl text-3xl font-bold text-center title-font 
+      text-black-800">
         Contact
       </h2>
-      <div className='w-[150px] h-[4px] bg-blue-800'> </div>
+      <div className='w-[150px] h-[4px] mx-auto justify-center bg-blue-800'> </div>
       <br/>
       <p className="leading-relaxed mb-5 text-black-800 font-semibold">
         If you have any query, then feel free to contact me.
@@ -129,7 +133,8 @@ const Contact = () => {
       </div>
       <br/>
       <button className="text-white bg-blue-600 hover:bg-blue-800 
-      border-2 py-2 px-6 focus:outline-none rounded-lg text-lg shadow-2xl ml-20">
+      border-2 py-2 px-6 focus:outline-none rounded-lg text-lg shadow-2xl 
+      ml-20 justify-center items-center">
         Submit
       </button>
       </form>
