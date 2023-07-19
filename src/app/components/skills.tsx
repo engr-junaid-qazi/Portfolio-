@@ -15,7 +15,7 @@ bg-center custom-image">
       <p className="text-base font-semibold leading-relaxed xl:w-2/4 lg:w-3/4 
       mx-auto">
         Listed here are some of my major skills which i have acquired 
-        during Industrial Engineer's Course and Artificial Intelligence & 
+        during Industrial Engineer\'s Course and Artificial Intelligence & 
         Data Science Course
       </p>
     </div>
